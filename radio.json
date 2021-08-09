@@ -1,0 +1,16 @@
+{
+  "radio": {
+    "name": "Our house fm",
+    "url": "http://stream.joyhits.online:8880/joyhits.mp3",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/0/01/Muse_Music_App_Logo.png"
+  },
+  "social": {
+    "fb": "https://www.facebook.com/skyfmradio/",
+    "tw": "https://twitter.com/bbc5live",
+    "site": "https://www.di.fm/house",
+    "email": "mail@mail.com",
+    "phone": "+9-999-99-99",
+    "apk": "https://play.google.com/store/apps/details?id=com.android.chrome",
+    "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  }
+}
